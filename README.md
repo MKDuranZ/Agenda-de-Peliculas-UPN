@@ -27,3 +27,4 @@ El desarrollo aplica conceptos fundamentales de programación como:
 7. **Búsqueda por nombre:** Encuentra y muestra toda la información de una película específica.
 8. **Crear película:** Permite registrar nuevas películas de forma dinámica durante la ejecución del programa.
 
+<img width="590" height="589" alt="5aa7fccfa00ca" src="https://github.com/user-attachments/assets/7aa54077-af75-4028-8b83-da982f0d00de" />
