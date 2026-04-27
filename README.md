@@ -28,15 +28,15 @@ El desarrollo aplica conceptos fundamentales de programación como:
 8. **Crear película:** Permite registrar nuevas películas de forma dinámica durante la ejecución del programa.
 
 ## Pruebas de Funcionamiento
-1. **Consultar película más larga:**
+## 1. **Consultar película más larga:**
    <img width="423" height="249" alt="image" src="https://github.com/user-attachments/assets/0592967f-2603-4779-a67b-13d6a1a00157" />
-2. **Consultar duración promedio:**
+## 2. **Consultar duración promedio:**
    <img width="421" height="200" alt="image" src="https://github.com/user-attachments/assets/6f635db0-fddf-4915-a6d8-1f2c0655bb46" />
-3. **Buscar estrenos:**
+## 3. **Buscar estrenos:**
    <img width="601" height="246" alt="image" src="https://github.com/user-attachments/assets/8f08ba7e-765a-4943-bdb0-a8019148b6e4" />
-4. **Contar películas 18+:**
+## 4. **Contar películas 18+:**
    <img width="423" height="202" alt="image" src="https://github.com/user-attachments/assets/42d50647-62b4-49fc-889f-396a0ef65be5" />
-5. **Reagendar película:**
+## 5. **Reagendar película:**
    <img width="446" height="261" alt="image" src="https://github.com/user-attachments/assets/957357bf-59e4-4510-b6d9-8212e7e0e62e" />
    5.1. **No se deben programar documentales a las 10:00 p. m. o más tarde.**
    <img width="520" height="264" alt="image" src="https://github.com/user-attachments/assets/e407106f-bdfb-43c8-86a5-16843d37de31" />
@@ -44,7 +44,7 @@ El desarrollo aplica conceptos fundamentales de programación como:
    <img width="467" height="261" alt="image" src="https://github.com/user-attachments/assets/de4690d6-803f-484a-9db4-82312821db34" />
    5.3. **Entre semana no se deben programar películas que inicien a las 11:00 p. m. o más tarde, ni antes de las 6:00 a. m.**
    <img width="437" height="263" alt="image" src="https://github.com/user-attachments/assets/ebc6b5ba-cb0c-4c02-b616-c5c81c1acdff" />
-6. **Verificar invitación:**
+## 6. **Verificar invitación:**
    6.1. **Los mayores de edad pueden ser invitados a cualquier película.**
    <img width="428" height="246" alt="image" src="https://github.com/user-attachments/assets/a79cb553-1aba-486e-83df-5638f1474db3" />
    6.2. **Los menores de 15 años no pueden ver películas de terror.**
@@ -54,9 +54,9 @@ El desarrollo aplica conceptos fundamentales de programación como:
    <img width="416" height="246" alt="image" src="https://github.com/user-attachments/assets/32c56cb9-177e-4eca-817b-db187cc61ed4" />
    6.4. **Si la edad no cumple la clasificación de la película, se requiere autorización de los padres, excepto en documentales.**
    <img width="417" height="248" alt="image" src="https://github.com/user-attachments/assets/f580f573-0665-4967-9da6-00eea8c7be77" />
-7. **Búsqueda por nombre:**
+## 7. **Búsqueda por nombre:**
    <img width="415" height="299" alt="image" src="https://github.com/user-attachments/assets/dfb3608a-060a-469a-a02f-0f2da30506be" />
-8. **Crear película:**
+## 8. **Crear película:**
    <img width="478" height="335" alt="image" src="https://github.com/user-attachments/assets/213c64c7-4d26-4206-ac5a-641b52e7630c" />
    
 
