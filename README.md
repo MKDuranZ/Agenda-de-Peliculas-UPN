@@ -2,11 +2,11 @@
 
 **Curso:** Informatica 1 
 **Lenguaje:** Python  
-**Institución:** Universidad Pedagógica Nacional  
+**Institución:** Universidad Pedagógica Nacional  de Colombia
 
 ## Integrantes
-* **Mark Durán Zona** - Código: 2024103024 - Correo: mduranz@upn.edu.co
-* **Jeison Felipe Palomino Ulloa** - Código: 2024103084 - Correo: jfpalominou@upn.edu.co
+* **Mark Durán Zona** 
+* **Jeison Felipe Palomino Ulloa** 
 
 ## Descripción del Proyecto
 Este proyecto es una aplicación de consola desarrollada en Python diseñada para administrar una agenda personal de películas. El sistema permite gestionar la información de 20 películas iniciales, permitiendo realizar consultas de duración, filtros por año de estreno, conteos por clasificación y gestión de horarios.
