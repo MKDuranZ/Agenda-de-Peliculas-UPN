@@ -56,6 +56,7 @@ El desarrollo aplica conceptos fundamentales de programación como:
    <img width="418" height="247" alt="image" src="https://github.com/user-attachments/assets/afcd1021-daef-48da-9286-2cc8d4a6ab60" />
    6.3. **Los invitados de 10 años o menos solo pueden ver películas de género familiar.**
    <img width="413" height="244" alt="image" src="https://github.com/user-attachments/assets/33d0a1dc-59cf-4850-9b9c-2a817ff54c01" />
+   
    <img width="416" height="246" alt="image" src="https://github.com/user-attachments/assets/32c56cb9-177e-4eca-817b-db187cc61ed4" />
    6.4. **Si la edad no cumple la clasificación de la película, se requiere autorización de los padres, excepto en documentales.**
    <img width="417" height="248" alt="image" src="https://github.com/user-attachments/assets/f580f573-0665-4967-9da6-00eea8c7be77" />
